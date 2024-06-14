@@ -1,2 +1,8 @@
-# refokus-webclone
-🚀 A React-based project to replicate the Refokus website. This clone focuses on recreating the design, functionality, and user experience of the original site. Ideal for learning modern web development techniques using React, Redux, and Styled-components. Contributions are welcome! 💻✨
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
